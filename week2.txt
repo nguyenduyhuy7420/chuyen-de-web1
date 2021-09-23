@@ -1,0 +1,2 @@
+đây là file week2.txt
+thuộc branch week2
